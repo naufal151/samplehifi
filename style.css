@@ -1,0 +1,6 @@
+.jumbotron {
+	background-image: url(img/mandel1.jpg);
+	background-size: cover;
+	height: 550px;
+	text-align: center;
+}
